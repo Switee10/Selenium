@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-06T16:38:25 IST" name="Default suite" finished-at="2023-09-06T16:39:04 IST" duration-ms="38298">
+    <groups>
+    </groups>
+    <test started-at="2023-09-06T16:38:25 IST" name="Default test" finished-at="2023-09-06T16:39:04 IST" duration-ms="38298">
+      <class name="com.TestNG.ActionDemoEx">
+        <test-method signature="ActionEx()[pri:0, instance:com.TestNG.ActionDemoEx@2e6a8155]" started-at="2023-09-06T16:38:26 IST" name="ActionEx" finished-at="2023-09-06T16:39:04 IST" duration-ms="38211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ActionEx -->
+      </class> <!-- com.TestNG.ActionDemoEx -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
